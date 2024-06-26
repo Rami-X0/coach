@@ -1,0 +1,8 @@
+flutter_native_splash:
+
+  color: "#2B2B2B"
+  image: assets/images/coach_app_logo.png
+
+  android_12:
+   color: "#F7F7F7"
+   image: assets/images/coach_app_logo_android_12.png
